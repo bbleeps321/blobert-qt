@@ -1,0 +1,4 @@
+Add reset functions to Scene and Blobert (different for levels and lives).
+Add apples/treats
+Increment levels when treats consumed.
+Reset on each level.
